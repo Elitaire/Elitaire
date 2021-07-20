@@ -5,7 +5,7 @@
 - 🌀 I am new to programming. 9 months of experience.
 - 
 - 🔸 My Steam: [https://steamcommunity.com/id/Elitaire/][Click] 
-- 🔸 My VK: [Click]: https://vk.com/x3dllx
+- 🔸 My VK: [Click](https://vk.com/x3dllx)
 - 🔸 My TG: elitraSAS
 
 ## ✌ My personal discord server is under development.
