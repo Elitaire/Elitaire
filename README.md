@@ -6,6 +6,6 @@
 - 
 - 🔸 My Steam: [click](https://steamcommunity.com/id/Elitaire/)
 - 🔸 My VK: [click](https://vk.com/elitra)
-- 🔸 My TG: elitraSAS
+- 🔸 My TG: @elitra
 
 ## ✌ My personal discord server is under development.
