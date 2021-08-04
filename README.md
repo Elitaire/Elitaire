@@ -2,7 +2,7 @@
 
 - 🌀 I am a server developer and a scriptwriter in the LUA language in the game GMOD.
 - 🌀 Familiar with languages: LUA, JS, C++
-- 🌀 I am new to programming. 12 months of experience.
+- 🌀 Work experience: 9 months.
 - 
 - 🔸 My Steam: [click](https://steamcommunity.com/id/Elitaire/)
 - 🔸 My VK: [click](https://vk.com/elitra)
