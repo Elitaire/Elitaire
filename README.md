@@ -6,6 +6,6 @@
 + 🌠 Workspace: Visual Studio Code
 + 🌠 Used Programs: Adobe Photoshop, Premier Pro, Affter Effects
 -
-- 🔸 My Steam: [click](https://steamcommunity.com/id/dwqptf/)
-- 🔸 My VK: [click](https://vk.com/dwqptf)
-- 🔸 My TG: @dwqptf
++ 🔸 My Steam: [click](https://steamcommunity.com/id/dwqptf/)
++ 🔸 My VK: [click](https://vk.com/dwqptf)
++ 🔸 My TG: @dwqptf
