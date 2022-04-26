@@ -6,4 +6,4 @@
 - 
 - 🔸 My Steam: [click](https://steamcommunity.com/id/dwqptf/)
 - 🔸 My VK: [click](https://vk.com/dwqptf)
-- 🔸 My TG: @elitra
+- 🔸 My TG: @dwqptf
