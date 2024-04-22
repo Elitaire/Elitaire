@@ -64,3 +64,6 @@
 
 
 <h4 align="center"> Road to Game Development in Naughty Dog 🐾 </h4>
+<div id="dog" align="center">
+ <img src="https://i.imgur.com/TSUqT88.png" width="340"/> 
+</div>
