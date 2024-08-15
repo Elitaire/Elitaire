@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://vk.com/sergeevich_63">
+  <a href="https://vk.com/wearv">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="https://t.me/wearvf">
@@ -29,6 +29,9 @@
 <div id="Tools" align="left">
   <a href="">
     <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="LUA"/>
+  </a>
+    <a href="">
+    <img src="https://img.shields.io/badge/python%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="LUA"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
