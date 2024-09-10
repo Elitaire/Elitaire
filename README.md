@@ -18,10 +18,9 @@
 
 <h1 align="center"> Hi, There 👋 </h1>
 
-* 👤 I am a server developer in the LUA language and Graphic Designer in the game **Garry`s Mod**.
-* 💙 I am the main developer at [r:development studio](https://discord.gg/9VbsQ7UMDy)
+* 👤 I am a Senior Backend Developer on C++, Python.
 * 🔌 Work experience: **5 age**.
-* 👥 My Discord: @copcarru
+* 👥 My Discord: @wearv.
 
 
 <h3 align="left">Languages and Tools:</h3>
