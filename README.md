@@ -28,8 +28,6 @@ Do you need my **help**? Have a **suggestion** for me? Send a mail to wearver@gm
 [<img src="https://img.shields.io/badge/-Telegram-26a5e4?logo=telegram&logoColor=white" alt="Telegram" />](https://t.me/wearvf)
 
 ## Skills
-</details>&nbsp;
-
 ![Python](https://img.shields.io/badge/-Python-282828?logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/-C++-282828?logo=c%2B%2B&&logoColor=blue)
 ![Django](https://img.shields.io/badge/-Django-282828?logo=django&logoColor=green)
@@ -43,4 +41,3 @@ Do you need my **help**? Have a **suggestion** for me? Send a mail to wearver@gm
 ![PHP](https://img.shields.io/badge/-PHP-282828?logo=php&logoColor=777bb4)
 ![Figma](https://img.shields.io/badge/-Figma-282828?logo=figma&logoColor=f24e1e)
 ![Markdown](https://img.shields.io/badge/-Markdown-282828?logo=markdown&logoColor=white)
-
