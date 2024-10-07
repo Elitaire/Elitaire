@@ -3,7 +3,7 @@
   </a>
 </div>
 
-<h1 align="center">wearv</h1>
+<h1> </h1>
 
 ## Hi, there! 👋 <br>I'm Daniil Sergeevich 🦸‍♂️ <br>Middle Backend Engineer 👨‍💻
 
