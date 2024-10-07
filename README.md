@@ -11,7 +11,7 @@
 
 <details>
   <summary>🔽 &nbsp;<strong>More</strong></summary>
-
+  
 - 👔 &nbsp;Organized & standalone
 - 🤓 &nbsp;Love to code
 - 🌱 &nbsp;Constantly learning
