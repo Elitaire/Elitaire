@@ -1,3 +1,9 @@
+<div align="center">
+    <img width="100" src="logo.svg" alt="Logo" />
+  </a>
+</div>
+
+<h1 align="center">wearv</h1>
 
 ## Hi, there! 👋 <br>I'm Daniil Sergeevich 🦸‍♂️ <br>Middle Backend Engineer 👨‍💻
 
