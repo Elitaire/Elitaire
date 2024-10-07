@@ -1,68 +1,46 @@
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IzYjYwMnRkbjRpbDRsOXcwaGx3NGphbnZwazN5ZDlkNGpoZG40cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="140"/>
-</div>
 
-<div id="badges" align="center">
-  <a href="https://vk.com/wearv">
-    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
-  <a href="https://t.me/wearvf">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TG Badge"/>
-  </a>
-  <a href="https://discord.gg/9VbsQ7UMDy">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="DS Badge"/>
-  </a>
-</div>
+## Hi, there! 👋 <br>I'm Daniil Sergeevich 🦸‍♂️ <br>Middle Backend Engineer 👨‍💻
 
 
+## About
 
-<h1 align="center"> Hi, There 👋 </h1>
+- 🚀 &nbsp;Creaiting project of any complexity from scratch.
+- 💡 &nbsp;Bringing UI/UX ideas to life.
+- 💼 &nbsp;5 years of experience.
+- 🏠 &nbsp;Based in Tolyatti, Russia
 
-* 👤 I am a Senior Backend Developer on C++, Python.
-* 🔌 Work experience: **5 age**.
-* 👥 My Discord: @wearv.
+<details>
+  <summary>🔽 &nbsp;<strong>More</strong></summary>
 
+- 👔 &nbsp;Organized & standalone
+- 🤓 &nbsp;Love to code
+- 🌱 &nbsp;Constantly learning
+- 📐 &nbsp;Prone to perfectionism
+- 🏃‍♂️ &nbsp;Sports lover
+- ☕️ &nbsp;Coffee lover
+- 🎓 &nbsp;Secondary general education
+</details>&nbsp;
 
-<h3 align="left">Languages and Tools:</h3>
+## Contact
+Do you need my **help**? Have a **suggestion** for me? Send a mail to wearver@gmail.com or use links below:
 
-<div id="Tools" align="left">
-  <a href="">
-    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="LUA"/>
-  </a>
-    <a href="">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="PYTHON"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  </a>
-   <a href="">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/>
-  </a>
-   <a href="">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA"/>
-  </a>
-   <a href="">
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="APS"/>
-  </a>
-    <a href="">
-    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="AAI"/>
-  </a>
-    <a href="">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS"/>
-  </a>
-    <a href="">
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="TRELLO"/>
-  </a>
-    <a href="">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  </a>
-    <a href="">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LEK"/>
-  </a>
-</div>
+[<img src="https://img.shields.io/badge/-Gmail-ea4335?logo=gmail&logoColor=white" alt="Gmail" />](email)
+[<img src="https://img.shields.io/badge/-Telegram-26a5e4?logo=telegram&logoColor=white" alt="Telegram" />](https://t.me/wearvf)
 
+## Skills
+</details>&nbsp;
 
+![Python](https://img.shields.io/badge/-Python-282828?logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/-C++-282828?logo=c%2B%2B&&logoColor=blue)
+![Django](https://img.shields.io/badge/-Django-282828?logo=django&logoColor=green)
+![SQLite](https://img.shields.io/badge/-SQLite-282828?logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-282828?logo=mongodb&logoColor=234ea94b)
+![MySQL](https://img.shields.io/badge/-MySQL-282828?logo=mysql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/-Docker-282828?logo=docker&logoColor=blue)
+![HTML](https://img.shields.io/badge/-HTML-282828?logo=html5&logoColor=e34f26)
+![CSS](https://img.shields.io/badge/-CSS-282828?logo=css3&logoColor=1572b6)
+![Git](https://img.shields.io/badge/-Git-282828?logo=git&logoColor=f05032)
+![PHP](https://img.shields.io/badge/-PHP-282828?logo=php&logoColor=777bb4)
+![Figma](https://img.shields.io/badge/-Figma-282828?logo=figma&logoColor=f24e1e)
+![Markdown](https://img.shields.io/badge/-Markdown-282828?logo=markdown&logoColor=white)
 
