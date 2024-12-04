@@ -5,7 +5,7 @@
 
 <h1> </h1>
 
-## Hi, there! 👋 <br>I'm Daniil Sergeevich 🦸‍♂️ <br>Middle Backend Engineer 👨‍💻
+## Hi, there! 👋 <br>I'm Daniil Sergeevich 🦸‍♂️ <br>Junior Backend Engineer 👨‍💻
 
 ## About
 
